@@ -15,10 +15,10 @@
             <h3 class="pr-4 pt-3 text-xl">Septembre 2021</h3>
           </div>
           <div id="transactions" class="flex flex-row h-60 mt-6 py-5 px-16 text-3xl font-medium">
-            <div class="flex flex-col w-1/3 leading-relaxed">
-              <h3>Spotify</h3>
-              <h3>Microsoft</h3>
-              <h3>Amazon</h3>
+            <div id="transactions" class="flex flex-col w-1/3 leading-relaxed">
+              <h3>1</h3>
+              <h3>1</h3>
+              <h3>1</h3>
             </div>
             <div class="flex flex-col w-1/3 leading-relaxed">
               <h3>15/09</h3>
