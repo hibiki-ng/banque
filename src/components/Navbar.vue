@@ -5,7 +5,7 @@
         <a href="index.html" class="font-mono text-3xl font-bold mt-4">Banque</a>
       </div>
       <div class="flex flex-col justify-around h-60">
-        <router-link to="/about">Opérations</router-link>
+        <router-link to="/operations">Opérations</router-link>
         <a href="#">Budget</a>
         <a href="#">Virement</a>
         <a href="#">Mode sombre</a>

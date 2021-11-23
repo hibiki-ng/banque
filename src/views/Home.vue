@@ -11,14 +11,14 @@
         </div>
         <div class="flex flex-col w-2/4 h-80 p-4 rounded-lg bg-gradient-to-br from-blue-400 to-blue-500 text-white pointer" onclick="location.href='d:/wamp/banque/operations.html'">
           <div class="flex flex-row justify-between">
-            <h2 class="text-4xl font-medium">Transactions</h2>
+            <h2 class="text-4xl pl-3 font-medium">Transactions</h2>
             <h3 class="pr-4 pt-3 text-xl">Septembre 2021</h3>
           </div>
           <div id="transactions" class="flex flex-row h-60 mt-6 py-5 px-16 text-3xl font-medium">
             <div id="transactions" class="flex flex-col w-1/3 leading-relaxed">
-              <h3>1</h3>
-              <h3>1</h3>
-              <h3>1</h3>
+              <h3>Amazon</h3>
+              <h3>Spotify</h3>
+              <h3>Google</h3>
             </div>
             <div class="flex flex-col w-1/3 leading-relaxed">
               <h3>15/09</h3>
@@ -32,7 +32,7 @@
             </div>
           </div>
           <div class="px-8">
-            <a href="">Voir toutes les transactions →</a>
+            <router-link to="/operations">Voir toutes les transactions →</router-link>
           </div>
         </div>
       </div>

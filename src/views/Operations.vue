@@ -1,6 +1,9 @@
 <template>
   <div class="flex h-screen font-sans home">
     <Navbar/>
+    <div>
+      <h1>test</h1>
+    </div>
   </div>
 </template>
 
@@ -9,7 +12,7 @@
 import Navbar from '@/components/Navbar.vue'
 
 export default {
-  name: 'About',
+  name: 'Operations',
   components: {
     Navbar
   }
